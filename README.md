@@ -1,7 +1,7 @@
 ### Hi there, I'm Carlos Nassif! 👋
 
 - 🔭 I’m currently working as an electronics technician.
-- 🔭 I’m currently studying software engineering.
+- 🔭 I'm in software engineering college.
 - 🌱 I’m currently learning NodeJs.
 - 💬 Ask me about React, React-Native, Node, Javascript, Typescript...
 - 😄 Pronouns: Him/His.
